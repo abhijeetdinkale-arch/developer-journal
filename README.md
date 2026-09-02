@@ -23,3 +23,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-09-01 Session 2](logs/2026-09-01.md): Systems Architecture
 - [2026-09-01 Session 3](logs/2026-09-01.md): Kotlin Flow Optimization
 - [2026-09-02 Session 1](logs/2026-09-02.md): Database Query Tuning
+- [2026-09-02 Session 2](logs/2026-09-02.md): Web Performance Audit
