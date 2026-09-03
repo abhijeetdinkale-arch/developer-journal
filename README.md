@@ -25,3 +25,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-09-02 Session 1](logs/2026-09-02.md): Database Query Tuning
 - [2026-09-02 Session 2](logs/2026-09-02.md): Web Performance Audit
 - [2026-09-02 Session 3](logs/2026-09-02.md): FHIR R4 Schema Design
+- [2026-09-03 Session 1](logs/2026-09-03.md): Concurrency Models
