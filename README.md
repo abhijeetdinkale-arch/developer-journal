@@ -47,3 +47,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-09-08 Session 2](logs/2026-09-08.md): Secure Storage Keystore
 - [2026-09-08 Session 3](logs/2026-09-08.md): Vite Build Bundling
 - [2026-09-09 Session 1](logs/2026-09-09.md): State Machine Verification
+- [2026-09-09 Session 2](logs/2026-09-09.md): Network Resilience & Retries
