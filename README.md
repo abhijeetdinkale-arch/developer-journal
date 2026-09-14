@@ -67,3 +67,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-09-13 Session 4](logs/2026-09-13.md): State Machine Verification
 - [2026-09-14 Session 1](logs/2026-09-14.md): Network Resilience & Retries
 - [2026-09-14 Session 2](logs/2026-09-14.md): Electron IPC Security
+- [2026-09-14 Session 3](logs/2026-09-14.md): Memory Leak Profiling
