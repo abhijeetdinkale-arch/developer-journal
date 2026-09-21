@@ -88,3 +88,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-09-20 Session 3](logs/2026-09-20.md): Memory Leak Profiling
 - [2026-09-20 Session 4](logs/2026-09-20.md): API Gateway Routing
 - [2026-09-21 Session 1](logs/2026-09-21.md): Reactive UI Rendering
+- [2026-09-21 Session 2](logs/2026-09-21.md): Vector Search Indexing
