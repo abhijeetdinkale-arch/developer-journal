@@ -93,3 +93,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-09-21 Session 4](logs/2026-09-21.md): Accessibility Compliance
 - [2026-09-22 Session 1](logs/2026-09-22.md): Continuous Integration Gates
 - [2026-09-22 Session 2](logs/2026-09-22.md): Systems Architecture
+- [2026-09-23 Session 1](logs/2026-09-23.md): Kotlin Flow Optimization
