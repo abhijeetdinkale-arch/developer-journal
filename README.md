@@ -150,3 +150,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-10-10 Session 3](logs/2026-10-10.md): Kotlin Flow Optimization
 - [2026-10-11 Session 1](logs/2026-10-11.md): Database Query Tuning
 - [2026-10-11 Session 2](logs/2026-10-11.md): Web Performance Audit
+- [2026-10-11 Session 3](logs/2026-10-11.md): FHIR R4 Schema Design
