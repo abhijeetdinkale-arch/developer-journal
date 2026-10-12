@@ -154,3 +154,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-10-11 Session 4](logs/2026-10-11.md): Concurrency Models
 - [2026-10-12 Session 1](logs/2026-10-12.md): Secure Storage Keystore
 - [2026-10-12 Session 2](logs/2026-10-12.md): Vite Build Bundling
+- [2026-10-12 Session 3](logs/2026-10-12.md): State Machine Verification
