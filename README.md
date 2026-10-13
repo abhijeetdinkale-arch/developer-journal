@@ -156,3 +156,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-10-12 Session 2](logs/2026-10-12.md): Vite Build Bundling
 - [2026-10-12 Session 3](logs/2026-10-12.md): State Machine Verification
 - [2026-10-13 Session 1](logs/2026-10-13.md): Network Resilience & Retries
+- [2026-10-13 Session 2](logs/2026-10-13.md): Electron IPC Security
