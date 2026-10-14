@@ -158,3 +158,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-10-13 Session 1](logs/2026-10-13.md): Network Resilience & Retries
 - [2026-10-13 Session 2](logs/2026-10-13.md): Electron IPC Security
 - [2026-10-13 Session 3](logs/2026-10-13.md): Memory Leak Profiling
+- [2026-10-14 Session 1](logs/2026-10-14.md): API Gateway Routing
