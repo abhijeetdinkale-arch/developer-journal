@@ -189,3 +189,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-10-23 Session 3](logs/2026-10-23.md): FHIR R4 Schema Design
 - [2026-10-24 Session 1](logs/2026-10-24.md): Concurrency Models
 - [2026-10-24 Session 2](logs/2026-10-24.md): Secure Storage Keystore
+- [2026-10-24 Session 3](logs/2026-10-24.md): Vite Build Bundling
