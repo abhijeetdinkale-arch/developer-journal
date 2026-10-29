@@ -202,3 +202,4 @@ Personal engineering notes, architectural reflections, and daily development log
 - [2026-10-28 Session 1](logs/2026-10-28.md): Continuous Integration Gates
 - [2026-10-28 Session 2](logs/2026-10-28.md): Systems Architecture
 - [2026-10-28 Session 3](logs/2026-10-28.md): Kotlin Flow Optimization
+- [2026-10-29 Session 1](logs/2026-10-29.md): Database Query Tuning
